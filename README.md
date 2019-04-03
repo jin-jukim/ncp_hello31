@@ -14,7 +14,7 @@
      1. 덮밥
      1. 돈까스
    
-![구글 로고[(https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![구글 로고](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 [구글로 가기](http://google.co.kr/)
 
@@ -51,4 +51,4 @@ class Hello {
 
 
 
-# 
+# 취미
