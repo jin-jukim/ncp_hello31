@@ -23,20 +23,22 @@
 > `화장실` 가고 싶어요...
 >
 
+`파일탐색기`를 열려면 `윈도우키 + e`를 누릅니다. 
+
 CMD창을 열려면 `cmd`명령어를 입력합니다.
 
-...java
+```java
 class Hello {
   public static void main(String[] args) {
   System.out.println("Hello World");
   }
 }
-...
+```
 
 ### 오늘의 할일
 - [x] 점심 먹기 `수제피자`
 - [ ] 바운드 배구 이기기
-- [ ] 
+- [ ] 리서치 데이 하기 
 
 ### 3-1 명렬
 번호 | 이름
@@ -46,3 +48,7 @@ class Hello {
 3 | 김진주
 4 | 김효경
 5 | 나연경
+
+
+
+# 
