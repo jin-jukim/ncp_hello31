@@ -14,7 +14,7 @@
      1. 덮밥
      1. 돈까스
    
-![구글 로고[(https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)]
+![구글 로고[(https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 [구글로 가기](http://google.co.kr/)
 
@@ -25,7 +25,7 @@
 
 CMD창을 열려면 `cmd`명령어를 입력합니다.
 
-...jsvs 
+...java
 class Hello {
   public static void main(String[] args) {
   System.out.println("Hello World");
